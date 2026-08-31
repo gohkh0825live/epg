@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<tv generator_info_name="Auto-EPG-Converter">
+  <channel id="26f16d3a-5713-4dc2-ad1c-4e0880899a13">
+    <display-name>TV1</display-name>
+  </channel>
+  <channel id="659c6568-8cc8-4083-bbdc-2b7df2431f62">
+    <display-name>TV2</display-name>
+  </channel>
+  <channel id="02a8b5b3-8478-46d8-99c4-daa34f9c5672">
+    <display-name>FREE MOVIES</display-name>
+  </channel>
+  <channel id="1a41a91b-64c1-4feb-a119-76ebd88fed4a">
+    <display-name>BERNAMA</display-name>
+  </channel>
+  <channel id="c62a6f83-ebd8-4106-890d-d8b299b7a3fe">
+    <display-name>TVS</display-name>
+  </channel>
+  <channel id="e725be7c-615d-42bd-9399-fef5cf386ecb">
+    <display-name>TV ALHIJRAH</display-name>
+  </channel>
+  <channel id="6245eaa8-f825-4fef-b1f8-2d44fa8676e9">
+    <display-name>BERITA RTM</display-name>
+  </channel>
+  <channel id="0cf62f66-bf04-4002-ace9-b20d78e0e9dd">
+    <display-name>MySports</display-name>
+  </channel>
+  <channel id="f99e8ffe-7f22-4639-9d7a-497e21f24ad0">
+    <display-name>SUKAN+</display-name>
+  </channel>
+  <channel id="fc596cbc-6f4f-4ab8-bb60-82fb27e38089">
+    <display-name>TV OKEY</display-name>
+  </channel>
+  <channel id="f1d943b2-b73d-495a-a450-4dad590f750b">
+    <display-name>The Indonesia Channel</display-name>
+  </channel>
+  <channel id="10792dcd-a26e-441f-95ec-c9c5ba965205">
+    <display-name>CNA</display-name>
+  </channel>
+  <channel id="c8ae5728-1231-40cf-b7f1-ed6b304bd753">
+    <display-name>Al JAZEERA ENGLISH HD</display-name>
+  </channel>
+  <channel id="8e664047-dc59-43f2-b43a-f99594c75094">
+    <display-name>EURONEWS</display-name>
+  </channel>
+  <channel id="91a0697b-3d4c-4324-8b56-3fa5d9cba67d">
+    <display-name>ARIRANG</display-name>
+  </channel>
+  <channel id="a6de27c9-8a5d-48a7-941f-4511efc94808">
+    <display-name>TaiwanPlus</display-name>
+  </channel>
+  <channel id="632813f5-d3a7-4e17-a225-14a61b323f32">
+    <display-name>NHK WORLD</display-name>
+  </channel>
+  <channel id="3c3902e0-ae27-4043-9ca0-f308611ec32b">
+    <display-name>DW</display-name>
+  </channel>
+  <channel id="0f03e6f4-7cbf-4f01-9e19-ce48837d3fdb">
+    <display-name>RT International</display-name>
+  </channel>
+  <channel id="48bd4c45-e84a-40d1-8be1-0d58e9f95bf6">
+    <display-name>Al JAZEERA ARABIC HD</display-name>
+  </channel>
+  <channel id="8c00c624-d7aa-4828-8abe-b0665ebf5772">
+    <display-name>SELANGOR TV</display-name>
+  </channel>
+  <channel id="3d0a1579-dd79-453b-b4f6-3c861f4d35da">
+    <display-name>USIM TV</display-name>
+  </channel>
+  <channel id="6c4508d0-51c4-4a6c-9d64-7f19d0301646">
+    <display-name>TVIKIM</display-name>
+  </channel>
+  <channel id="d2b549cc-218c-4cd2-aab3-e9e479c3f24f">
+    <display-name>SIARA TV</display-name>
+  </channel>
+  <channel id="ebb8ddd1-318a-471c-96c6-13bf7125be93">
+    <display-name>BORNEO TV</display-name>
+  </channel>
+</tv>
