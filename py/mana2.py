@@ -3,14 +3,16 @@ import json
 import requests
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 
 def fetch_and_convert_epg():
-    # 1. 动态获取当前系统日期 (格式: YYYY-MM-DD)
-    today_str = datetime.now().strftime("%Y-%m-%d")
+    # 获取 UTC+8 (Asia/Kuala_Lumpur) 的系统当前日期
+    tz_plus_8 = ZoneInfo("Asia/Kuala_Lumpur")
+    today_str = datetime.now(tz_plus_8).strftime("%Y-%m-%d")
+    
     url = f"https://co3y6iwoio.tenbytecdn.com/api/v1/public/epg/guide?channelType=video&date={today_str}"
     
-    # 设置匹配的 请求头
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Accept": "application/json, text/plain, */*",
@@ -18,14 +20,14 @@ def fetch_and_convert_epg():
         "Referer": "https://www.mana2.my/"
     }
 
-    print(f"正在抓取日期为 {today_str} 的 EPG 数据...")
+    print(f"正在抓取 [UTC+8] 日期为 {today_str} 的 EPG 数据...")
 
     try:
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         json_data = response.json()
 
-        # 2. 构建 XMLTV 根节点
+        # 构建 XMLTV 根节点
         tv = ET.Element('tv', generator_info_name='Auto-EPG-Converter')
 
         # 兼容处理 JSON 数据根节点
@@ -37,7 +39,7 @@ def fetch_and_convert_epg():
             print("数据提取失败：无法读取到频道列表，请检查 API 返回格式")
             return
 
-        # 3. 遍历频道及节目表
+        # 遍历频道及节目表
         for item in channels_data:
             channel_id = str(item.get('channelId') or item.get('id') or item.get('code') or '')
             channel_name = str(item.get('channelName') or item.get('name') or channel_id)
@@ -72,7 +74,7 @@ def fetch_and_convert_epg():
                     desc_node = ET.SubElement(prog_node, 'desc', lang='zh')
                     desc_node.text = str(desc)
 
-        # 4. 美化并输出 XML 文件
+        # 美化并输出 XML 文件
         raw_xml = ET.tostring(tv, encoding='utf-8')
         pretty_xml = minidom.parseString(raw_xml).toprettyxml(indent="  ")
 
@@ -95,7 +97,9 @@ def parse_epg_time(time_val):
             ts = int(time_val)
             if ts > 1e11:  # 毫秒级时间戳
                 ts /= 1000
-            dt = datetime.fromtimestamp(ts)
+            # 明确按 UTC+8 解析 timestamp
+            tz_plus_8 = timezone(timedelta(hours=8))
+            dt = datetime.fromtimestamp(ts, tz=tz_plus_8)
             return dt.strftime('%Y%m%d%H%M%S +0800')
         
         # 处理字符串格式
