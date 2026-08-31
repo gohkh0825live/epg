@@ -2,9 +2,9 @@ name: Daily Mana2 EPG Update
 
 on:
   schedule:
-    # 每天 UTC 时间 20:00 (即马来西亚/北京时间 凌晨 04:00) 自动运行
+    # 每天 UTC 20:00 (即马来西亚/北京时间 凌晨 04:00) 自动触发运行
     - cron: '0 20 * * *'
-  workflow_dispatch: # 支持在 GitHub 网页后台手动点击运行
+  workflow_dispatch: # 支持在 GitHub 网页界面手动点击立即运行
 
 jobs:
   build-and-update:
@@ -27,12 +27,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run mana2.py Script
+    - name: Run py/mana2.py
       run: python py/mana2.py
 
-    - name: Commit and Push Updated epg.xml
+    - name: Commit and Push Updated emana2.xml
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add epg.xml
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Mana2 EPG [skip ci]" && git push)
+        git add emana2.xml
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Mana2 EPG (emana2.xml) [skip ci]" && git push)
