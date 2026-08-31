@@ -35,4 +35,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add mana2.xml
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Mana2 EPG (emana2.xml) [skip ci]" && git push)
+        git commit --allow-empty -m "Auto-update Mana2 EPG (mana2.xml) [skip ci]"
+        git push
