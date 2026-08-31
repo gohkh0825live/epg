@@ -78,7 +78,7 @@ def fetch_and_convert_epg():
         raw_xml = ET.tostring(tv, encoding='utf-8')
         pretty_xml = minidom.parseString(raw_xml).toprettyxml(indent="  ")
 
-        output_file = "emana2.xml"
+        output_file = "mana2.xml"
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(pretty_xml)
 
