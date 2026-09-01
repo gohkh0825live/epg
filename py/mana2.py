@@ -7,16 +7,25 @@ import requests
 
 
 def get_formatted_channel_id(ch_data):
-    # 动态从 channelName 中提取纯英文字母和数字，拼接 .mana2
-    # 例如: "TV1" -> "TV1.mana2" | "TV ALHIJRAH" -> "TVALHIJRAH.mana2" | "SUKAN+" -> "SUKAN.mana2"
-    channel_name = ch_data.get("channelName", "")
-    clean_name = re.sub(r"[^a-zA-Z0-9]", "", channel_name)
+    channel_name = ch_data.get("channelName", "").strip()
 
-    if not clean_name:
-        # 如果名称没有英文数字（例如纯中文或特殊字符），退回使用 slug/channelId
-        clean_name = ch_data.get("slug") or ch_data.get("channelId") or "CHANNEL"
+    # 清理常见干扰后缀（如 HD, SD 等）
+    clean_name = re.sub(
+        r"\s*[\(\_]?HD[\)\_]?|\s*[\(\_]?SD[\)\_]?",
+        "",
+        channel_name,
+        flags=re.IGNORECASE,
+    )
 
-    return f"{clean_name}.mana2"
+    # 去掉所有非英文字母和数字
+    clean_id = re.sub(r"[^a-zA-Z0-9]", "", clean_name)
+
+    if not clean_id:
+        clean_id = (
+            ch_data.get("slug") or ch_data.get("channelId") or "CHANNEL"
+        )
+
+    return f"{clean_id}.mana2"
 
 
 def parse_time(utc_str):
@@ -32,11 +41,7 @@ def parse_time(utc_str):
     return dt_local.strftime("%Y%m%d%H%M%S +0800")
 
 
-def json_to_xmltv(json_data):
-    raw = json.loads(json_data) if isinstance(json_data, str) else json_data
-    if not raw.get("success") or "data" not in raw:
-        raise ValueError("Invalid JSON payload or status unsuccessful")
-
+def json_to_xmltv(combined_channels_data):
     tv = ET.Element(
         "tv",
         {
@@ -45,10 +50,8 @@ def json_to_xmltv(json_data):
         },
     )
 
-    channels_data = raw["data"]
-
     # 1. 构建 <channel> 节点
-    for ch in channels_data:
+    for ch_id, ch in combined_channels_data.items():
         formatted_id = get_formatted_channel_id(ch)
         channel_name = ch.get("channelName", "")
         logo_url = ch.get("channelLogo", "")
@@ -61,7 +64,7 @@ def json_to_xmltv(json_data):
             ET.SubElement(channel_node, "icon", {"src": logo_url})
 
     # 2. 构建 <programme> 节点
-    for ch in channels_data:
+    for ch_id, ch in combined_channels_data.items():
         formatted_id = get_formatted_channel_id(ch)
         programmes = ch.get("programmes", [])
 
@@ -101,10 +104,14 @@ def json_to_xmltv(json_data):
 
 
 if __name__ == "__main__":
-    myt_now = datetime.now(timezone(timedelta(hours=8)))
-    today_str = myt_now.strftime("%Y-%m-%d")
+    myt_tz = timezone(timedelta(hours=8))
+    myt_now = datetime.now(myt_tz)
 
-    API_URL = f"https://co3y6iwoio.tenbytecdn.com/api/v1/public/epg/guide?channelType=video&date={today_str}"
+    # 计算今天与明天的日期字符串
+    dates_to_fetch = [
+        (myt_now).strftime("%Y-%m-%d"),
+        (myt_now + timedelta(days=1)).strftime("%Y-%m-%d"),
+    ]
 
     headers = {
         "User-Agent": (
@@ -115,17 +122,52 @@ if __name__ == "__main__":
         "Origin": "https://www.mana2.my",
     }
 
-    try:
-        response = requests.get(API_URL, headers=headers, timeout=15)
-        response.raise_for_status()
+    # 用于存放合并后的频道数据 { channel_id: channel_dict }
+    combined_channels = {}
 
-        xml_content = json_to_xmltv(response.text)
+    for date_str in dates_to_fetch:
+        API_URL = f"https://co3y6iwoio.tenbytecdn.com/api/v1/public/epg/guide?channelType=video&date={date_str}"
+        print(f"正在抓取 [{date_str}] 的 EPG 数据...")
 
-        with open("mana2.xml", "w", encoding="utf-8") as f:
-            f.write(xml_content)
+        try:
+            response = requests.get(API_URL, headers=headers, timeout=15)
+            response.raise_for_status()
+            raw = response.json()
 
-        print(f"[{today_str}] mana2.xml 已成功生成，所有 ID 均动态追加 .mana2！")
+            if not raw.get("success") or "data" not in raw:
+                continue
 
-    except Exception as e:
-        print(f"运行失败: {e}")
+            for ch in raw["data"]:
+                ch_key = ch.get("channelId") or ch.get("slug")
+                if not ch_key:
+                    continue
+
+                if ch_key not in combined_channels:
+                    # 如果未登记过该频道，存入基本属性及当前的节目
+                    combined_channels[ch_key] = ch
+                else:
+                    # 如果已存在，合并 programmes 节目数据
+                    existing_progs = combined_channels[ch_key].get(
+                        "programmes", []
+                    )
+                    new_progs = ch.get("programmes", [])
+                    combined_channels[ch_key]["programmes"] = (
+                        existing_progs + new_progs
+                    )
+
+        except Exception as e:
+            print(f"抓取 [{date_str}] 数据失败: {e}")
+
+    # 生成 XMLTV 文本并写入文件
+    if combined_channels:
+        try:
+            xml_content = json_to_xmltv(combined_channels)
+            with open("mana2.xml", "w", encoding="utf-8") as f:
+                f.write(xml_content)
+            print(f"成功合并两天数据并写入 mana2.xml！")
+        except Exception as e:
+            print(f"生成 XML 失败: {e}")
+            exit(1)
+    else:
+        print("未获取到任何 EPG 数据！")
         exit(1)
