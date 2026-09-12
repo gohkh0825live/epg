@@ -5,13 +5,12 @@ from datetime import datetime, timedelta, timezone
 from xml.dom import minidom
 import requests
 
-# 静态 EPG 的基础 URL 结构
-STATIC_EPG_BASE = "https://epg-exports-prod.s3.ap-southeast-1.amazonaws.com/epg-data/latest/"
+STATIC_EPG_URL = "https://epg-exports-prod.s3.ap-southeast-1.amazonaws.com/epg-data/latest/epg_today.json"
 IMG_BASE = "https://rtm-images.glueapi.io/fit-in/640x320/"
 
 
 def get_formatted_channel_id(channel_name):
-  """规范化频道 ID (去除特殊字符与后缀，追加 .rtmklik)"""
+  """规范化频道 ID (去除特殊字符，追加 .rtmklik)"""
   clean_name = re.sub(
       r"\s*[\(\_]?HD[\)\_]?|\s*[\(\_]?SD[\)\_]?",
       "",
@@ -30,35 +29,57 @@ def parse_time(dt_str):
     dt = datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S")
   except ValueError:
     try:
-      dt = datetime.fromisoformat(dt_str.rstrip("Z"))
+      dt = datetime.fromisoformat(str(dt_str).rstrip("Z"))
     except Exception:
-      return dt_str
+      return str(dt_str)
 
   myt_tz = timezone(timedelta(hours=8))
   dt_local = dt.replace(tzinfo=myt_tz)
   return dt_local.strftime("%Y%m%d%H%M%S +0800")
 
 
-def generate_weekly_xmltv(combined_schedules):
-  """将 7 天的数据整合生成单份 XMLTV"""
+def extract_schedules_list(raw_json):
+  """递归解包数据，确保准确获取节目数组"""
+  if isinstance(raw_json, list):
+    return raw_json
+  if isinstance(raw_json, dict):
+    data_node = raw_json.get("data")
+    if isinstance(data_node, list):
+      return data_node
+    elif isinstance(data_node, dict):
+      return data_node.get("data", [])
+  return []
+
+
+def generate_xmltv(raw_json):
+  """构建 XMLTV 结构树"""
   tv = ET.Element(
       "tv",
       {
-          "generator-info-name": "RTMKlik Weekly EPG Converter",
+          "generator-info-name": "RTMKlik EPG Converter",
           "source-info-url": "https://rtmklik.rtm.gov.my",
       },
   )
 
+  schedules = extract_schedules_list(raw_json)
+  print(f"解析到节目记录总条数: {len(schedules)}")
+
+  if not schedules:
+    return ET.tostring(tv, encoding="utf-8")
+
   channels_map = {}
 
-  # 1. 提取全量频道并建立 <channel> 节点
-  for item in combined_schedules:
+  # 1. 提取所有频道并创建 <channel> 节点
+  for item in schedules:
     ch_info = item.get("channel", {})
-    ch_name = (
-        ch_info.get("title")
-        if isinstance(ch_info, dict)
-        else item.get("channelTitle")
-    )
+    if isinstance(ch_info, dict):
+      ch_name = (
+          ch_info.get("title") or ch_info.get("name") or ch_info.get("channel")
+      )
+    else:
+      ch_name = (
+          item.get("channelTitle") or item.get("channelName") or str(ch_info)
+      )
 
     if ch_name and ch_name not in channels_map:
       formatted_id = get_formatted_channel_id(ch_name)
@@ -68,21 +89,32 @@ def generate_weekly_xmltv(combined_schedules):
       display_name = ET.SubElement(channel_node, "display-name")
       display_name.text = ch_name
 
-  # 2. 生成所有 7 天的 <programme> 节点
-  for item in combined_schedules:
+  print(f"成功识别频道数量: {len(channels_map)}")
+
+  # 2. 生成所有 <programme> 节点
+  for item in schedules:
     ch_info = item.get("channel", {})
-    ch_name = (
-        ch_info.get("title")
-        if isinstance(ch_info, dict)
-        else item.get("channelTitle")
-    )
+    if isinstance(ch_info, dict):
+      ch_name = (
+          ch_info.get("title") or ch_info.get("name") or ch_info.get("channel")
+      )
+    else:
+      ch_name = (
+          item.get("channelTitle") or item.get("channelName") or str(ch_info)
+      )
 
     if not ch_name or ch_name not in channels_map:
       continue
 
     formatted_id = channels_map[ch_name]
-    start_raw = item.get("datetimeStart")
-    end_raw = item.get("datetimeEnd")
+    start_raw = (
+        item.get("datetimeStart")
+        or item.get("dateStart")
+        or item.get("startTime")
+    )
+    end_raw = (
+        item.get("datetimeEnd") or item.get("dateEnd") or item.get("endTime")
+    )
 
     if not start_raw or not end_raw:
       continue
@@ -97,7 +129,11 @@ def generate_weekly_xmltv(combined_schedules):
         },
     )
 
+    # 兼容多种数据层级的字段读取
     prog_info = item.get("program", {})
+    if not isinstance(prog_info, dict):
+      prog_info = {}
+
     title_text = (
         prog_info.get("title")
         or item.get("title")
@@ -110,7 +146,9 @@ def generate_weekly_xmltv(combined_schedules):
         or item.get("programDescription")
         or ""
     )
-    photo_path = prog_info.get("photo") or item.get("photo")
+    photo_path = (
+        prog_info.get("photo") or item.get("photo") or item.get("image")
+    )
 
     title = ET.SubElement(prog_node, "title", {"lang": "ms"})
     title.text = title_text
@@ -135,34 +173,19 @@ if __name__ == "__main__":
       )
   }
 
-  url = f"{STATIC_EPG_BASE}epg_today.json"
-  print(f"正在从 AWS S3 拉取 7 天全量 EPG 数据包: {url}")
-
+  print(f"正在读取全量 EPG JSON: {STATIC_EPG_URL}")
   try:
-    res = requests.get(url, headers=headers, timeout=25)
+    res = requests.get(STATIC_EPG_URL, headers=headers, timeout=25)
     res.raise_for_status()
     raw_json = res.json()
 
-    # 提取 JSON 里的数据列表
-    raw_data = raw_json.get("data", {})
-    schedules = (
-        raw_data.get("data", [])
-        if isinstance(raw_data, dict)
-        else raw_json.get("data", [])
-    )
+    xml_content = generate_xmltv(raw_json)
 
-    if schedules:
-      xml_content = generate_weekly_xmltv(schedules)
-      with open("rtmklik.xml", "w", encoding="utf-8") as f:
-        f.write(xml_content)
-      print(
-          f"✅ 成功提取 {raw_json.get('dateStart')} 至"
-          f" {raw_json.get('dateEnd')} 共 {len(schedules)} 条节目记录，已写入"
-          " rtmklik.xml"
-      )
-    else:
-      print("⚠️ 获取到的节目列表为空")
+    with open("rtmklik.xml", "w", encoding="utf-8") as f:
+      f.write(xml_content)
+
+    print("✅ 成功重新写入 rtmklik.xml")
 
   except Exception as e:
-    print(f"❌ 抓取或解析失败: {e}")
+    print(f"❌ 执行发生错误: {e}")
     exit(1)
