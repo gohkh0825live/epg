@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="RTMKlik EPG Converter" source-info-url="https://rtmklik.rtm.gov.my">
+  <channel id="BeritaRTM.rtmklik">
+    <display-name>Berita RTM</display-name>
+  </channel>
+  <channel id="RTMWorld.rtmklik">
+    <display-name>RTM World</display-name>
+  </channel>
+  <channel id="DewanRakyat.rtmklik">
+    <display-name>Dewan Rakyat</display-name>
+  </channel>
+  <channel id="DewanNegara.rtmklik">
+    <display-name>Dewan Negara</display-name>
+  </channel>
+  <channel id="FIH1.rtmklik">
+    <display-name>FIH 1</display-name>
+  </channel>
+  <channel id="FIH2.rtmklik">
+    <display-name>FIH 2</display-name>
+  </channel>
+  <channel id="Roll.rtmklik">
+    <display-name>Roll</display-name>
+  </channel>
+  <channel id="Lead.rtmklik">
+    <display-name>Lead</display-name>
+  </channel>
+  <channel id="Jr.rtmklik">
+    <display-name>Jr.</display-name>
+  </channel>
+  <channel id="Snap.rtmklik">
+    <display-name>Snap</display-name>
+  </channel>
+  <channel id="Apetito.rtmklik">
+    <display-name>Apetito</display-name>
+  </channel>
+  <channel id="Aura.rtmklik">
+    <display-name>Aura</display-name>
+  </channel>
+  <channel id="Fitrah.rtmklik">
+    <display-name>Fitrah</display-name>
+  </channel>
+</tv>
