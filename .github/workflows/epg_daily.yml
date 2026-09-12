@@ -1,10 +1,10 @@
-name: Daily Mana2 EPG Update
+name: Daily EPG Update (Mana2 & RTMKlik)
 
 on:
   schedule:
     # 每天 UTC 20:00 (即马来西亚/北京时间 凌晨 04:00) 自动触发运行
     - cron: '0 20 * * *'
-  workflow_dispatch: # 支持在 GitHub 网页界面手动点击立即运行
+  workflow_dispatch: # 支持手动运行
 
 jobs:
   build-and-update:
@@ -27,13 +27,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run py/mana2.py
-      run: python py/mana2.py
+    - name: Run EPG Scripts
+      run: |
+        python py/mana2.py
+        python py/rtmklik.py
 
-    - name: Commit and Push Updated mana2.xml
+    - name: Commit and Push Updated XML Files
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add mana2.xml
-        git commit --allow-empty -m "Auto-update Mana2 EPG (mana2.xml) [skip ci]"
+        git add mana2.xml rtmklik.xml
+        git commit --allow-empty -m "Auto-update EPG (mana2.xml & rtmklik.xml) [skip ci]"
         git push
