@@ -1,2 +1,202 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="RTMKlik Weekly EPG Converter" source-info-url="https://rtmklik.rtm.gov.my"/>
+<tv generator-info-name="RTMKlik EPG Converter" source-info-url="https://rtmklik.rtm.gov.my">
+  <channel id="TV1.rtmklik">
+    <display-name>TV1</display-name>
+  </channel>
+  <channel id="TV2.rtmklik">
+    <display-name>TV2</display-name>
+  </channel>
+  <channel id="Okey.rtmklik">
+    <display-name>Okey</display-name>
+  </channel>
+  <channel id="SukanRTM.rtmklik">
+    <display-name>Sukan RTM</display-name>
+  </channel>
+  <channel id="BeritaRTM.rtmklik">
+    <display-name>Berita RTM</display-name>
+  </channel>
+  <channel id="TV6.rtmklik">
+    <display-name>TV6</display-name>
+  </channel>
+  <channel id="DewanRakyat.rtmklik">
+    <display-name>Dewan Rakyat</display-name>
+  </channel>
+  <channel id="DewanNegara.rtmklik">
+    <display-name>Dewan Negara</display-name>
+  </channel>
+  <channel id="RadioKLASIK.rtmklik">
+    <display-name>Radio KLASIK</display-name>
+  </channel>
+  <channel id="NASIONALfm.rtmklik">
+    <display-name>NASIONALfm</display-name>
+  </channel>
+  <channel id="TRAXXfm.rtmklik">
+    <display-name>TRAXXfm</display-name>
+  </channel>
+  <channel id="AIfm.rtmklik">
+    <display-name>AIfm</display-name>
+  </channel>
+  <channel id="MINNALfm.rtmklik">
+    <display-name>MINNALfm</display-name>
+  </channel>
+  <channel id="AsyikFM.rtmklik">
+    <display-name>Asyik FM</display-name>
+  </channel>
+  <channel id="SampleEPG.rtmklik">
+    <display-name>Sample EPG</display-name>
+  </channel>
+  <channel id="SelangorFM.rtmklik">
+    <display-name>Selangor FM</display-name>
+  </channel>
+  <channel id="SabahVFM.rtmklik">
+    <display-name>SabahV FM</display-name>
+  </channel>
+  <channel id="SarawakFM.rtmklik">
+    <display-name>Sarawak FM</display-name>
+  </channel>
+  <channel id="LabuanFM.rtmklik">
+    <display-name>Labuan FM</display-name>
+  </channel>
+  <channel id="KedahFM.rtmklik">
+    <display-name>Kedah FM</display-name>
+  </channel>
+  <channel id="KLFM.rtmklik">
+    <display-name>KL FM</display-name>
+  </channel>
+  <channel id="KelantanFM.rtmklik">
+    <display-name>Kelantan FM</display-name>
+  </channel>
+  <channel id="TerengganuFM.rtmklik">
+    <display-name>Terengganu FM</display-name>
+  </channel>
+  <channel id="PahangFM.rtmklik">
+    <display-name>Pahang FM</display-name>
+  </channel>
+  <channel id="JohorFM.rtmklik">
+    <display-name>Johor FM</display-name>
+  </channel>
+  <channel id="NegeriFM.rtmklik">
+    <display-name>Negeri FM</display-name>
+  </channel>
+  <channel id="PerakFM.rtmklik">
+    <display-name>Perak FM</display-name>
+  </channel>
+  <channel id="MutiaraFM.rtmklik">
+    <display-name>Mutiara FM</display-name>
+  </channel>
+  <channel id="PerlisFM.rtmklik">
+    <display-name>Perlis FM</display-name>
+  </channel>
+  <channel id="MelakaFM.rtmklik">
+    <display-name>Melaka FM</display-name>
+  </channel>
+  <channel id="SabahFM.rtmklik">
+    <display-name>Sabah FM</display-name>
+  </channel>
+  <channel id="WaiFM.rtmklik">
+    <display-name>Wai FM</display-name>
+  </channel>
+  <channel id="RedFM.rtmklik">
+    <display-name>Red FM</display-name>
+  </channel>
+  <channel id="LangkawiFM.rtmklik">
+    <display-name>Langkawi FM</display-name>
+  </channel>
+  <channel id="LimbangFM.rtmklik">
+    <display-name>Limbang FM</display-name>
+  </channel>
+  <channel id="MiriFM.rtmklik">
+    <display-name>Miri FM </display-name>
+  </channel>
+  <channel id="SriAmanFM.rtmklik">
+    <display-name>Sri Aman FM</display-name>
+  </channel>
+  <channel id="BintuluFM.rtmklik">
+    <display-name>Bintulu FM</display-name>
+  </channel>
+  <channel id="SibuFM.rtmklik">
+    <display-name>Sibu FM</display-name>
+  </channel>
+  <channel id="SandakanFM.rtmklik">
+    <display-name>Sandakan FM</display-name>
+  </channel>
+  <channel id="TawauFM.rtmklik">
+    <display-name>Tawau FM</display-name>
+  </channel>
+  <channel id="KeningauFM.rtmklik">
+    <display-name>Keningau FM</display-name>
+  </channel>
+  <channel id="WaiFMIban.rtmklik">
+    <display-name>Wai FM Iban</display-name>
+  </channel>
+  <channel id="DemoChannel.rtmklik">
+    <display-name>Demo Channel</display-name>
+  </channel>
+  <channel id="TestEventEpg.rtmklik">
+    <display-name>Test Event Epg</display-name>
+  </channel>
+  <channel id="Saluran2.rtmklik">
+    <display-name>Saluran 2
+</display-name>
+  </channel>
+  <channel id="Saluran1.rtmklik">
+    <display-name>Saluran 1</display-name>
+  </channel>
+  <channel id="Saluran3.rtmklik">
+    <display-name>Saluran 3</display-name>
+  </channel>
+  <channel id="Saluran4.rtmklik">
+    <display-name>Saluran 4</display-name>
+  </channel>
+  <channel id="Saluran5.rtmklik">
+    <display-name>Saluran 5</display-name>
+  </channel>
+  <channel id="RTMWorld.rtmklik">
+    <display-name>RTM World</display-name>
+  </channel>
+  <channel id="PreviewChannel.rtmklik">
+    <display-name>Preview Channel</display-name>
+  </channel>
+  <channel id="RTMAsean.rtmklik">
+    <display-name>RTM Asean</display-name>
+  </channel>
+  <channel id="BlackClash.rtmklik">
+    <display-name>Black Clash</display-name>
+  </channel>
+  <channel id="ROLL.rtmklik">
+    <display-name>ROLL</display-name>
+  </channel>
+  <channel id="Lead.rtmklik">
+    <display-name>Lead</display-name>
+  </channel>
+  <channel id="JR.rtmklik">
+    <display-name>JR.</display-name>
+  </channel>
+  <channel id="Snap.rtmklik">
+    <display-name>Snap</display-name>
+  </channel>
+  <channel id="Apetito.rtmklik">
+    <display-name>Apetito</display-name>
+  </channel>
+  <channel id="Aura.rtmklik">
+    <display-name>Aura</display-name>
+  </channel>
+  <channel id="Fitrah.rtmklik">
+    <display-name>Fitrah</display-name>
+  </channel>
+  <channel id="RadioMuzik.rtmklik">
+    <display-name>Radio Muzik</display-name>
+  </channel>
+  <channel id="RadioBisnes.rtmklik">
+    <display-name>Radio Bisnes</display-name>
+  </channel>
+  <channel id="FIH1.rtmklik">
+    <display-name>FIH 1</display-name>
+  </channel>
+  <channel id="FIH2.rtmklik">
+    <display-name>FIH 2</display-name>
+  </channel>
+  <channel id="FIFAWC3.rtmklik">
+    <display-name>FIFA WC 3</display-name>
+  </channel>
+</tv>
