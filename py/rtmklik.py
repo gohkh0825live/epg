@@ -12,6 +12,8 @@ CONFIG = {
 
 def parse_iso_time(time_str):
     """解析 ISO 8601 时间字符串并转换为 XMLTV 格式 (YYYYMMDDhhmmss +0800)"""
+    if not time_str:
+        return None
     dt = datetime.fromisoformat(time_str)
     return dt.strftime("%Y%m%d%H%M%S") + f" {CONFIG['TIMEZONE']}"
 
@@ -52,9 +54,22 @@ def generate_epg():
 
         # 处理频道的 EPG 节目单 <programme>
         schedule = channel_item.get("schedule", [])
-        for prog in schedule:
-            start_time = parse_iso_time(prog["dateTimeStart"])
-            end_time = parse_iso_time(prog["dateTimeEnd"])
+        schedule_len = len(schedule)
+
+        for i, prog in enumerate(schedule):
+            # 兼容多种可能的开始时间字段
+            raw_start = prog.get("dateTimeStart") or prog.get("start")
+            if not raw_start:
+                continue # 没有开始时间的无效节目直接跳过
+                
+            start_time = parse_iso_time(raw_start)
+            
+            # 兼容多种可能的结束时间字段，若无则尝试用下一个节目的开始时间补全
+            raw_end = prog.get("dateTimeEnd") or prog.get("end") or prog.get("dateTimeStop")
+            if not raw_end and i + 1 < schedule_len:
+                raw_end = schedule[i + 1].get("dateTimeStart") or schedule[i + 1].get("start")
+                
+            end_time = parse_iso_time(raw_end) if raw_end else start_time # 若实在没有结束时间，退化为与开始时间相同
             
             prog_node = ET.SubElement(tv_root, "programme", {
                 "start": start_time,
@@ -74,7 +89,7 @@ def generate_epg():
                 
             # 集数 (如果有)
             ep_num = prog.get("scheduleEpisodeNumber") or prog.get("episodeNumber")
-            if ep_num and ep_num > 0:
+            if ep_num and str(ep_num).isdigit() and int(ep_num) > 0:
                 episode = ET.SubElement(prog_node, "episode-num", system="onscreen")
                 episode.text = f"EP {ep_num}"
 
