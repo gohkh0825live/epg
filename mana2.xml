@@ -347,6 +347,10 @@
     <desc lang="ms">Saksikan perkongsian sejarah negeri Melaka dalam usaha mencari kesahihan kewujudan terowong rahsia Melaka melalui fakta sejarah, artikel dan cerita orang tempatan.</desc>
     <category lang="en">Education/Science</category>
   </programme>
+  <programme start="20260923113000 +0800" stop="20260923120000 +0800" channel="TV1.mana2">
+    <title lang="ms">Ensiklopedia Kerja</title>
+    <desc lang="ms">Environment Idaman Sdn Bhd &amp; Green Resource Recovery Sdn Bhd menyediakan perkhidmatan pembersihan kawasan dan kitar semula.</desc>
+  </programme>
   <programme start="20260923120000 +0800" stop="20260923120500 +0800" channel="TV1.mana2">
     <title lang="ms">BERITA SEMASA</title>
     <desc lang="ms">Berita Semasa dalam dan luar negara.</desc>
@@ -586,6 +590,11 @@
     <title lang="ms">Escape From KL (Ulangan)</title>
     <desc lang="ms">Dalam episod kali ini, Neeta Manis akan ke Kuala Kubu Baru.</desc>
   </programme>
+  <programme start="20260923003000 +0800" stop="20260923013000 +0800" channel="TV2.mana2">
+    <title lang="ms">Platun Harimau</title>
+    <desc lang="ms">Kisah sebenar berlaku disekitar era 1980-an yang dilalui oleh pasukan RAMD ketika menerima tentangan hebat pengganas komunis dikenali sebagai 'Black Jacket'. Seramai 16 perajurit gugur dalam peperangan di daerah Gubir, Utara Perak bersempadan dengan Betong (Wilayah Siam) yang merupakan kawasan hitam pengganas komunis Black Jacket yang diketuai oleh Chong Woo.</desc>
+    <category lang="en">Sports</category>
+  </programme>
   <programme start="20260923013000 +0800" stop="20260923020000 +0800" channel="TV2.mana2">
     <title lang="ms">Yong Odah Che Melah</title>
     <desc lang="ms">Kisah gelagat Yong Odah dan Che Melah yang tinggal berjiran tapi saling bermusuhan. Namun apabila rumah tangga masing-masing menghadapi masalah, mereka melupakan sengketa yang terjadi dan berganding bahu mencari penyelesaian. Lakonan: Wan Maimunah,Kismah Johari,Fathil Dhani dan Kazar Saisi.</desc>
@@ -622,6 +631,11 @@
   <programme start="20260923060000 +0800" stop="20260923070000 +0800" channel="TV2.mana2">
     <title lang="ms">Trilogi Cinta</title>
     <desc lang="ms">Kisah liku-liku kehidupan dan pelbagai konflik keluarga yang ditempuhi oleh Norjinah dan Razif dalam melayari kehidupan rumahtangga. Lakonan: Rosyam Nor, Fauziah Gous, Amyza Aznan dan Siti Fazurina.</desc>
+  </programme>
+  <programme start="20260923070000 +0800" stop="20260923073000 +0800" channel="TV2.mana2">
+    <title lang="ms">Abus (SR2)</title>
+    <desc lang="ms">Animasi tentang sebuah komuniti Abus yang mempunyai unsur hiburan dan pengajaran yang menerapkan nilai-nilai murni untuk membentuk perpaduan negara.</desc>
+    <category lang="en">Arts/Culture</category>
   </programme>
   <programme start="20260923073000 +0800" stop="20260923080000 +0800" channel="TV2.mana2">
     <title lang="ms">Chellup (S2)</title>
@@ -663,10 +677,6 @@
   <programme start="20260923130000 +0800" stop="20260923140000 +0800" channel="TV2.mana2">
     <title lang="ms">Article 247</title>
     <desc lang="ms">Drama ini mengisahkan tentang Mary Jane yang terselamat daripada cubaan pembunuhan oleh suaminya sendiri, namun penyerangnya terlepas hukuman disebabkan perlindungan di bawah akta Artikel 247 Kod Jenayah Filipina. Beberapa tahun kemudian, merekadipertemukan semula, membuka kisah penuh dendam, keadilan, dan rahsia masa lalu yang mengubah hidup semua pihak.</desc>
-  </programme>
-  <programme start="20260923140000 +0800" stop="20260923150000 +0800" channel="TV2.mana2">
-    <title lang="ms">My Love In The Countryside</title>
-    <desc lang="ms">Saisamorn Suaisamoe, merupakan seorang artis atas dari keluarga kaya, namun dia tiada pengalaman dalam menjiwai watak yang beremosi cinta. Oleh itu, dia bercadang pergi ke desa Phetchaburi agar boleh mempunyai pengalaman tentang cinta. Di sana Saisamorn tinggal di rumah Marasri yang terkenal dengan mulut celuparnya. Dia berkenalan dengan Mana. Mana mengajar Saisamorn cara kehidupan didesa dimana pada mulanya menjadi perkara yang sangat sukar untuk Saisamorn.</desc>
   </programme>
   <programme start="20260923150000 +0800" stop="20260923170000 +0800" channel="TV2.mana2">
     <title lang="ms">Yashoda</title>
@@ -1103,6 +1113,11 @@
     <desc lang="ms">Program Kapsul berdurasi 30 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
     <category lang="en">Show/Game Show</category>
   </programme>
+  <programme start="20260923050000 +0800" stop="20260923053000 +0800" channel="BERNAMA.mana2">
+    <title lang="ms">Buletin BERNAMA</title>
+    <desc lang="ms">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+    <category lang="en">News/Current Affairs</category>
+  </programme>
   <programme start="20260923053000 +0800" stop="20260923060000 +0800" channel="BERNAMA.mana2">
     <title lang="ms">BERNAMA News</title>
     <desc lang="ms">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
@@ -1267,6 +1282,11 @@
     <desc lang="ms">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chinese</desc>
     <category lang="en">News/Current Affairs</category>
   </programme>
+  <programme start="20260923223000 +0800" stop="20260923230000 +0800" channel="BERNAMA.mana2">
+    <title lang="ms">(L) BERNAMA News</title>
+    <desc lang="ms">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+    <category lang="en">News/Current Affairs</category>
+  </programme>
   <programme start="20260923230000 +0800" stop="20260923233000 +0800" channel="BERNAMA.mana2">
     <title lang="ms">(L) Buletin BERNAMA</title>
     <desc lang="ms">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
@@ -1337,15 +1357,6 @@
   <programme start="20260922073000 +0800" stop="20260922080000 +0800" channel="TVS.mana2">
     <title lang="ms">Aroma Malaysia</title>
     <desc lang="ms">Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
-  </programme>
-  <programme start="20260922080000 +0800" stop="20260922080500 +0800" channel="TVS.mana2">
-    <title lang="ms">(DL) World News</title>
-    <desc lang="ms">Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
-    <category lang="en">News/Current Affairs</category>
-  </programme>
-  <programme start="20260922080500 +0800" stop="20260922081500 +0800" channel="TVS.mana2">
-    <title lang="ms">TVS Fillers</title>
-    <desc lang="ms">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
   </programme>
   <programme start="20260922081500 +0800" stop="20260922083000 +0800" channel="TVS.mana2">
     <title lang="ms">Be Our Guest</title>
@@ -7839,6 +7850,99 @@
     <title lang="ms">Wakaf</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
+  <programme start="20260922133908 +0800" stop="20260922133938 +0800" channel="SIARATV.mana2">
+    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922133938 +0800" stop="20260922134038 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bahaya Ikan Asing</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134038 +0800" stop="20260922134053 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Fungsi LIVE TV</title>
+    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
+  </programme>
+  <programme start="20260922134053 +0800" stop="20260922134153 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bunyi</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134153 +0800" stop="20260922134223 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Promo CNA - Hari Merdeka</title>
+    <desc lang="ms">Promo CNA sempena Hari Merdeka</desc>
+  </programme>
+  <programme start="20260922134223 +0800" stop="20260922134253 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cerita Tentang Ahmad</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134253 +0800" stop="20260922134557 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Crime Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
+  </programme>
+  <programme start="20260922134557 +0800" stop="20260922134627 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134627 +0800" stop="20260922134642 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kenalpasti TV Digital MYTV</title>
+    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
+  </programme>
+  <programme start="20260922134642 +0800" stop="20260922134744 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Infografik Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134744 +0800" stop="20260922134844 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134844 +0800" stop="20260922134944 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kempen Kesedaran Kebakaran</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922134944 +0800" stop="20260922135014 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Pemasangan MYTV</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135014 +0800" stop="20260922135117 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135117 +0800" stop="20260922135329 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Installation Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135329 +0800" stop="20260922135556 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Aku Berjanji - Faizal Tahir</title>
+    <desc lang="ms">Music video - Aku Berjanji by Faizal Tahir</desc>
+    <category lang="en">Music/Dance</category>
+  </programme>
+  <programme start="20260922135556 +0800" stop="20260922135656 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135656 +0800" stop="20260922135726 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135726 +0800" stop="20260922135756 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135756 +0800" stop="20260922135856 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Menangani Berita Palsu dan 3R</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135856 +0800" stop="20260922135926 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135926 +0800" stop="20260922135956 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260922135956 +0800" stop="20260922140211 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
   <programme start="20260922140211 +0800" stop="20260922140241 +0800" channel="SIARATV.mana2">
     <title lang="ms">Penyelamat Tak Diduga</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
@@ -8559,196 +8663,96 @@
     <title lang="ms">Kempen Kesedaran Kebakaran</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922170021 +0800" stop="20260922170051 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Pemasangan MYTV</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170051 +0800" stop="20260922170154 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170154 +0800" stop="20260922170258 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Trailer TRIP</title>
-    <desc lang="ms">Teaser program TRIP</desc>
-  </programme>
-  <programme start="20260922170258 +0800" stop="20260922170510 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Installation Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170510 +0800" stop="20260922170610 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kuasa</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170610 +0800" stop="20260922170640 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Lone Wolf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170640 +0800" stop="20260922170710 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170710 +0800" stop="20260922170810 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Menangani Berita Palsu dan 3R</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170810 +0800" stop="20260922170840 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Mereka Tak Kenal Sampah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170840 +0800" stop="20260922170910 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penuaan Sihat</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922170910 +0800" stop="20260922171125 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
-  </programme>
-  <programme start="20260922171125 +0800" stop="20260922171155 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyelamat Tak Diduga</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922171155 +0800" stop="20260922171255 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rasuah Adalah Jenayah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922171255 +0800" stop="20260922171305 +0800" channel="SIARATV.mana2">
-    <title lang="ms">SIARA TV BRAND IDENTITY</title>
-    <desc lang="ms">Brand Identity SIARA TV</desc>
-  </programme>
-  <programme start="20260922171305 +0800" stop="20260922171320 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Siaran Percuma MYTV</title>
-    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
-  </programme>
-  <programme start="20260922171320 +0800" stop="20260922171420 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 1</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922171420 +0800" stop="20260922171520 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922171520 +0800" stop="20260922171550 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922171550 +0800" stop="20260922171730 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174056 +0800" stop="20260922174236 +0800" channel="SIARATV.mana2">
     <title lang="ms">Warung Full</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922171730 +0800" stop="20260922171830 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174236 +0800" stop="20260922174336 +0800" channel="SIARATV.mana2">
     <title lang="ms">Wakaf</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922171830 +0800" stop="20260922171900 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174336 +0800" stop="20260922174406 +0800" channel="SIARATV.mana2">
     <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922171900 +0800" stop="20260922172000 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174406 +0800" stop="20260922174506 +0800" channel="SIARATV.mana2">
     <title lang="ms">Bahaya Ikan Asing</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172000 +0800" stop="20260922172015 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174506 +0800" stop="20260922174521 +0800" channel="SIARATV.mana2">
     <title lang="ms">Fungsi LIVE TV</title>
     <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
   </programme>
-  <programme start="20260922172015 +0800" stop="20260922172115 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174521 +0800" stop="20260922174621 +0800" channel="SIARATV.mana2">
     <title lang="ms">Bunyi</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172115 +0800" stop="20260922172145 +0800" channel="SIARATV.mana2">
-    <title lang="ms">TVS Promo - Gerak Khas 2.0</title>
-    <desc lang="ms">Ikuti drama Gerak Khas 2.0 bersama pasukan elit membanteras jenayah, hanya di TV Sarawak (TVS), Saluran MYTV 122.</desc>
+  <programme start="20260922174621 +0800" stop="20260922174651 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cerita Tentang Ahmad</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172145 +0800" stop="20260922172215 +0800" channel="SIARATV.mana2">
+  <programme start="20260922174651 +0800" stop="20260922174955 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Crime Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
+  </programme>
+  <programme start="20260922174955 +0800" stop="20260922175025 +0800" channel="SIARATV.mana2">
     <title lang="ms">Cetak Rompak Digital</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172215 +0800" stop="20260922172230 +0800" channel="SIARATV.mana2">
+  <programme start="20260922175025 +0800" stop="20260922175554 +0800" channel="SIARATV.mana2">
+    <title lang="ms">VIDEO SUMBANGAN PEKEMA</title>
+    <desc lang="ms">Video Sumbangan Pekema Golf Kepada 10 Bekas Atlet</desc>
+  </programme>
+  <programme start="20260922175554 +0800" stop="20260922175609 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kenalpasti TV Digital MYTV</title>
     <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
   </programme>
-  <programme start="20260922172230 +0800" stop="20260922172332 +0800" channel="SIARATV.mana2">
+  <programme start="20260922175609 +0800" stop="20260922175711 +0800" channel="SIARATV.mana2">
     <title lang="ms">Infografik Cetak Rompak Digital</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172332 +0800" stop="20260922172432 +0800" channel="SIARATV.mana2">
+  <programme start="20260922175711 +0800" stop="20260922175811 +0800" channel="SIARATV.mana2">
     <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172432 +0800" stop="20260922172532 +0800" channel="SIARATV.mana2">
+  <programme start="20260922175811 +0800" stop="20260922175911 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kempen Kesedaran Kebakaran</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172532 +0800" stop="20260922172602 +0800" channel="SIARATV.mana2">
+  <programme start="20260922175911 +0800" stop="20260922175941 +0800" channel="SIARATV.mana2">
     <title lang="ms">Pemasangan MYTV</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172602 +0800" stop="20260922172705 +0800" channel="SIARATV.mana2">
+  <programme start="20260922175941 +0800" stop="20260922180044 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172705 +0800" stop="20260922172917 +0800" channel="SIARATV.mana2">
+  <programme start="20260922180044 +0800" stop="20260922180256 +0800" channel="SIARATV.mana2">
     <title lang="ms">Installation Full</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922172917 +0800" stop="20260922173017 +0800" channel="SIARATV.mana2">
+  <programme start="20260922180256 +0800" stop="20260922180356 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kuasa</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922173017 +0800" stop="20260922173047 +0800" channel="SIARATV.mana2">
+  <programme start="20260922180356 +0800" stop="20260922180426 +0800" channel="SIARATV.mana2">
     <title lang="ms">Lone Wolf</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922173047 +0800" stop="20260922173126 +0800" channel="SIARATV.mana2">
-    <title lang="ms">TVS Promo AIM25</title>
-    <desc lang="ms">Jangan lepaskan peluang mengikuti drama Korea Hwarang. Saksikan hanya di TV Sarawak (TVS), Saluran MYTV 122</desc>
-  </programme>
-  <programme start="20260922173126 +0800" stop="20260922173156 +0800" channel="SIARATV.mana2">
+  <programme start="20260922180426 +0800" stop="20260922180456 +0800" channel="SIARATV.mana2">
     <title lang="ms">Penyamun</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922173156 +0800" stop="20260922173256 +0800" channel="SIARATV.mana2">
+  <programme start="20260922180456 +0800" stop="20260922180526 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Promo CNA - Hari Merdeka</title>
+    <desc lang="ms">Promo CNA sempena Hari Merdeka</desc>
+  </programme>
+  <programme start="20260922180526 +0800" stop="20260922180626 +0800" channel="SIARATV.mana2">
     <title lang="ms">Menangani Berita Palsu dan 3R</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922173256 +0800" stop="20260922173326 +0800" channel="SIARATV.mana2">
+  <programme start="20260922180626 +0800" stop="20260922180656 +0800" channel="SIARATV.mana2">
     <title lang="ms">Mereka Tak Kenal Sampah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922173326 +0800" stop="20260922173356 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penuaan Sihat</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922173356 +0800" stop="20260922173611 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
-  </programme>
-  <programme start="20260922173611 +0800" stop="20260922173641 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyelamat Tak Diduga</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922173641 +0800" stop="20260922173741 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rasuah Adalah Jenayah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922173741 +0800" stop="20260922173756 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Siaran Percuma MYTV</title>
-    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
-  </programme>
-  <programme start="20260922173756 +0800" stop="20260922173856 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 1</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922173856 +0800" stop="20260922173956 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922173956 +0800" stop="20260922174026 +0800" channel="SIARATV.mana2">
-    <title lang="ms">TVS Promo Remp-It</title>
-    <desc lang="ms">Saksikan dokumentari menarik The Human Odyssey hanya di TV Sarawak (TVS), saluran 122 di MYTV.</desc>
-  </programme>
-  <programme start="20260922174026 +0800" stop="20260922174056 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260922180656 +0800" stop="20260922180726 +0800" channel="SIARATV.mana2">
@@ -8934,98 +8938,6 @@
   </programme>
   <programme start="20260922191224 +0800" stop="20260922191324 +0800" channel="SIARATV.mana2">
     <title lang="ms">Rukun Negara Bahagian 1</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191324 +0800" stop="20260922191424 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191424 +0800" stop="20260922191454 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191454 +0800" stop="20260922191634 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Warung Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191634 +0800" stop="20260922191734 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Wakaf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191734 +0800" stop="20260922191804 +0800" channel="SIARATV.mana2">
-    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191804 +0800" stop="20260922191904 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bahaya Ikan Asing</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922191904 +0800" stop="20260922192433 +0800" channel="SIARATV.mana2">
-    <title lang="ms">VIDEO SUMBANGAN PEKEMA</title>
-    <desc lang="ms">Video Sumbangan Pekema Golf Kepada 10 Bekas Atlet</desc>
-  </programme>
-  <programme start="20260922192433 +0800" stop="20260922192448 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Fungsi LIVE TV</title>
-    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
-  </programme>
-  <programme start="20260922192448 +0800" stop="20260922192548 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bunyi</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922192548 +0800" stop="20260922192618 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cerita Tentang Ahmad</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922192618 +0800" stop="20260922192922 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Crime Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
-  </programme>
-  <programme start="20260922192922 +0800" stop="20260922192952 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922192952 +0800" stop="20260922193007 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kenalpasti TV Digital MYTV</title>
-    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
-  </programme>
-  <programme start="20260922193007 +0800" stop="20260922193109 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Infografik Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193109 +0800" stop="20260922193209 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193209 +0800" stop="20260922193309 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kempen Kesedaran Kebakaran</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193309 +0800" stop="20260922193339 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Pemasangan MYTV</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193339 +0800" stop="20260922193409 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Promo CNA - Hari Merdeka</title>
-    <desc lang="ms">Promo CNA sempena Hari Merdeka</desc>
-  </programme>
-  <programme start="20260922193409 +0800" stop="20260922193512 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193512 +0800" stop="20260922193724 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Installation Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193724 +0800" stop="20260922193824 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kuasa</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193824 +0800" stop="20260922193854 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Lone Wolf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922193854 +0800" stop="20260922193924 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260922193924 +0800" stop="20260922194024 +0800" channel="SIARATV.mana2">
@@ -9688,86 +9600,6 @@
     <title lang="ms">Penuaan Sihat</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260922223729 +0800" stop="20260922223944 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
-  </programme>
-  <programme start="20260922223944 +0800" stop="20260922224014 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyelamat Tak Diduga</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922224014 +0800" stop="20260922224114 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rasuah Adalah Jenayah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922224114 +0800" stop="20260922224643 +0800" channel="SIARATV.mana2">
-    <title lang="ms">VIDEO SUMBANGAN PEKEMA</title>
-    <desc lang="ms">Video Sumbangan Pekema Golf Kepada 10 Bekas Atlet</desc>
-  </programme>
-  <programme start="20260922224643 +0800" stop="20260922224658 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Siaran Percuma MYTV</title>
-    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
-  </programme>
-  <programme start="20260922224658 +0800" stop="20260922224758 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 1</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922224758 +0800" stop="20260922224858 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922224858 +0800" stop="20260922224928 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922224928 +0800" stop="20260922225108 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Warung Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225108 +0800" stop="20260922225208 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Wakaf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225208 +0800" stop="20260922225238 +0800" channel="SIARATV.mana2">
-    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225238 +0800" stop="20260922225338 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bahaya Ikan Asing</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225338 +0800" stop="20260922225353 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Fungsi LIVE TV</title>
-    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
-  </programme>
-  <programme start="20260922225353 +0800" stop="20260922225453 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bunyi</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225453 +0800" stop="20260922225523 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Promo CNA - Hari Merdeka</title>
-    <desc lang="ms">Promo CNA sempena Hari Merdeka</desc>
-  </programme>
-  <programme start="20260922225523 +0800" stop="20260922225553 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cerita Tentang Ahmad</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225553 +0800" stop="20260922225857 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Crime Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
-  </programme>
-  <programme start="20260922225857 +0800" stop="20260922225927 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260922225927 +0800" stop="20260922225942 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kenalpasti TV Digital MYTV</title>
-    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
-  </programme>
-  <programme start="20260922225942 +0800" stop="20260922230044 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Infografik Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
   <programme start="20260922230044 +0800" stop="20260922230144 +0800" channel="SIARATV.mana2">
     <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
@@ -10231,6 +10063,98 @@
     <desc lang="ms">Music video - Aku Berjanji by Faizal Tahir</desc>
     <category lang="en">Music/Dance</category>
   </programme>
+  <programme start="20260923110200 +0800" stop="20260923110300 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 1</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110300 +0800" stop="20260923110400 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 2</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110400 +0800" stop="20260923110430 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Talasemia</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110430 +0800" stop="20260923110610 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Warung Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110610 +0800" stop="20260923110710 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Wakaf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110710 +0800" stop="20260923110740 +0800" channel="SIARATV.mana2">
+    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110740 +0800" stop="20260923110840 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bahaya Ikan Asing</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110840 +0800" stop="20260923110855 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Fungsi LIVE TV</title>
+    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
+  </programme>
+  <programme start="20260923110855 +0800" stop="20260923110955 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bunyi</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923110955 +0800" stop="20260923111025 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cerita Tentang Ahmad</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111025 +0800" stop="20260923111129 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Trailer TRIP</title>
+    <desc lang="ms">Teaser program TRIP</desc>
+  </programme>
+  <programme start="20260923111129 +0800" stop="20260923111433 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Crime Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
+  </programme>
+  <programme start="20260923111433 +0800" stop="20260923111503 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111503 +0800" stop="20260923111518 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kenalpasti TV Digital MYTV</title>
+    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
+  </programme>
+  <programme start="20260923111518 +0800" stop="20260923111620 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Infografik Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111620 +0800" stop="20260923111720 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111720 +0800" stop="20260923111820 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kempen Kesedaran Kebakaran</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111820 +0800" stop="20260923111850 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Pemasangan MYTV</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111850 +0800" stop="20260923111953 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923111953 +0800" stop="20260923112205 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Installation Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923112205 +0800" stop="20260923112305 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923112305 +0800" stop="20260923112315 +0800" channel="SIARATV.mana2">
+    <title lang="ms">SIARA TV BRAND IDENTITY</title>
+    <desc lang="ms">Brand Identity SIARA TV</desc>
+  </programme>
+  <programme start="20260923112315 +0800" stop="20260923112345 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
   <programme start="20260923112345 +0800" stop="20260923112415 +0800" channel="SIARATV.mana2">
     <title lang="ms">Penyamun</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
@@ -10415,97 +10339,189 @@
     <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923123033 +0800" stop="20260923123048 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Siaran Percuma MYTV</title>
-    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
-  </programme>
-  <programme start="20260923123048 +0800" stop="20260923123148 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 1</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923123148 +0800" stop="20260923123248 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923123248 +0800" stop="20260923123318 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923123318 +0800" stop="20260923123458 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Warung Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923123458 +0800" stop="20260923123558 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Wakaf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923123558 +0800" stop="20260923123702 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Trailer TRIP</title>
-    <desc lang="ms">Teaser program TRIP</desc>
-  </programme>
-  <programme start="20260923123702 +0800" stop="20260923123732 +0800" channel="SIARATV.mana2">
-    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923123732 +0800" stop="20260923123832 +0800" channel="SIARATV.mana2">
+  <programme start="20260923120934 +0800" stop="20260923121034 +0800" channel="SIARATV.mana2">
     <title lang="ms">Bahaya Ikan Asing</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923123832 +0800" stop="20260923123847 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121034 +0800" stop="20260923121049 +0800" channel="SIARATV.mana2">
     <title lang="ms">Fungsi LIVE TV</title>
     <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
   </programme>
-  <programme start="20260923123847 +0800" stop="20260923123947 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121049 +0800" stop="20260923121149 +0800" channel="SIARATV.mana2">
     <title lang="ms">Bunyi</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923123947 +0800" stop="20260923124017 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121149 +0800" stop="20260923121219 +0800" channel="SIARATV.mana2">
     <title lang="ms">Cerita Tentang Ahmad</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923124017 +0800" stop="20260923124437 +0800" channel="SIARATV.mana2">
-    <title lang="ms">SHMP_EP02_FINAL</title>
-    <desc lang="ms">Suri Hati Mr. Parlimen Episod 2</desc>
-    <category lang="en">Movie/Drama</category>
-  </programme>
-  <programme start="20260923124437 +0800" stop="20260923124741 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Crime Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
-  </programme>
-  <programme start="20260923124741 +0800" stop="20260923124811 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121219 +0800" stop="20260923121249 +0800" channel="SIARATV.mana2">
     <title lang="ms">Cetak Rompak Digital</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923124811 +0800" stop="20260923124826 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121249 +0800" stop="20260923121304 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kenalpasti TV Digital MYTV</title>
     <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
   </programme>
-  <programme start="20260923124826 +0800" stop="20260923124928 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121304 +0800" stop="20260923121406 +0800" channel="SIARATV.mana2">
     <title lang="ms">Infografik Cetak Rompak Digital</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923124928 +0800" stop="20260923125028 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121406 +0800" stop="20260923121436 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Promo CNA - Hari Merdeka</title>
+    <desc lang="ms">Promo CNA sempena Hari Merdeka</desc>
+  </programme>
+  <programme start="20260923121436 +0800" stop="20260923121536 +0800" channel="SIARATV.mana2">
     <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923125028 +0800" stop="20260923125038 +0800" channel="SIARATV.mana2">
-    <title lang="ms">SIARA TV BRAND IDENTITY</title>
-    <desc lang="ms">Brand Identity SIARA TV</desc>
-  </programme>
-  <programme start="20260923125038 +0800" stop="20260923125138 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121536 +0800" stop="20260923121636 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kempen Kesedaran Kebakaran</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923125138 +0800" stop="20260923125208 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121636 +0800" stop="20260923121706 +0800" channel="SIARATV.mana2">
     <title lang="ms">Pemasangan MYTV</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923125208 +0800" stop="20260923125311 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121706 +0800" stop="20260923121809 +0800" channel="SIARATV.mana2">
     <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923125311 +0800" stop="20260923125523 +0800" channel="SIARATV.mana2">
+  <programme start="20260923121809 +0800" stop="20260923122021 +0800" channel="SIARATV.mana2">
     <title lang="ms">Installation Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122021 +0800" stop="20260923122121 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122121 +0800" stop="20260923122151 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122151 +0800" stop="20260923122221 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122221 +0800" stop="20260923122321 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Menangani Berita Palsu dan 3R</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122321 +0800" stop="20260923122351 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122351 +0800" stop="20260923122618 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Aku Berjanji - Faizal Tahir</title>
+    <desc lang="ms">Music video - Aku Berjanji by Faizal Tahir</desc>
+    <category lang="en">Music/Dance</category>
+  </programme>
+  <programme start="20260923122618 +0800" stop="20260923122648 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122648 +0800" stop="20260923122903 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
+  <programme start="20260923122903 +0800" stop="20260923122933 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyelamat Tak Diduga</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923122933 +0800" stop="20260923123033 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rasuah Adalah Jenayah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125523 +0800" stop="20260923125623 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125623 +0800" stop="20260923125653 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125653 +0800" stop="20260923125723 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125723 +0800" stop="20260923125823 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Menangani Berita Palsu dan 3R</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125823 +0800" stop="20260923125853 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125853 +0800" stop="20260923125923 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923125923 +0800" stop="20260923125953 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo - Gerak Khas 2.0</title>
+    <desc lang="ms">Ikuti drama Gerak Khas 2.0 bersama pasukan elit membanteras jenayah, hanya di TV Sarawak (TVS), Saluran MYTV 122.</desc>
+  </programme>
+  <programme start="20260923125953 +0800" stop="20260923130208 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
+  <programme start="20260923130208 +0800" stop="20260923130238 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyelamat Tak Diduga</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130238 +0800" stop="20260923130338 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rasuah Adalah Jenayah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130338 +0800" stop="20260923130353 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVC - MODENAS</title>
+    <desc lang="ms">TVC MODENAS</desc>
+  </programme>
+  <programme start="20260923130353 +0800" stop="20260923130453 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 1</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130453 +0800" stop="20260923130553 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 2</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130553 +0800" stop="20260923130623 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Talasemia</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130623 +0800" stop="20260923130803 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Warung Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130803 +0800" stop="20260923130903 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Wakaf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130903 +0800" stop="20260923130933 +0800" channel="SIARATV.mana2">
+    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923130933 +0800" stop="20260923131012 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo AIM25</title>
+    <desc lang="ms">Jangan lepaskan peluang mengikuti drama Korea Hwarang. Saksikan hanya di TV Sarawak (TVS), Saluran MYTV 122</desc>
+  </programme>
+  <programme start="20260923131012 +0800" stop="20260923131112 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bahaya Ikan Asing</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923131112 +0800" stop="20260923131127 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Fungsi LIVE TV</title>
+    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
+  </programme>
+  <programme start="20260923131127 +0800" stop="20260923131227 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bunyi</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923131227 +0800" stop="20260923131257 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cerita Tentang Ahmad</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923131257 +0800" stop="20260923131327 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cetak Rompak Digital</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260923131327 +0800" stop="20260923131342 +0800" channel="SIARATV.mana2">
@@ -10878,98 +10894,6 @@
     <title lang="ms">Cerita Tentang Ahmad</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923144606 +0800" stop="20260923144636 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923144636 +0800" stop="20260923144651 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kenalpasti TV Digital MYTV</title>
-    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
-  </programme>
-  <programme start="20260923144651 +0800" stop="20260923144721 +0800" channel="SIARATV.mana2">
-    <title lang="ms">TVS Promo Remp-It</title>
-    <desc lang="ms">Saksikan dokumentari menarik The Human Odyssey hanya di TV Sarawak (TVS), saluran 122 di MYTV.</desc>
-  </programme>
-  <programme start="20260923144721 +0800" stop="20260923144823 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Infografik Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923144823 +0800" stop="20260923144923 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923144923 +0800" stop="20260923145023 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kempen Kesedaran Kebakaran</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145023 +0800" stop="20260923145053 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Pemasangan MYTV</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145053 +0800" stop="20260923145156 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145156 +0800" stop="20260923145408 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Installation Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145408 +0800" stop="20260923145508 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kuasa</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145508 +0800" stop="20260923145538 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Lone Wolf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145538 +0800" stop="20260923145608 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145608 +0800" stop="20260923145708 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Menangani Berita Palsu dan 3R</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923145708 +0800" stop="20260923150237 +0800" channel="SIARATV.mana2">
-    <title lang="ms">VIDEO SUMBANGAN PEKEMA</title>
-    <desc lang="ms">Video Sumbangan Pekema Golf Kepada 10 Bekas Atlet</desc>
-  </programme>
-  <programme start="20260923150237 +0800" stop="20260923150307 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Mereka Tak Kenal Sampah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923150307 +0800" stop="20260923150337 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penuaan Sihat</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923150337 +0800" stop="20260923150552 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
-  </programme>
-  <programme start="20260923150552 +0800" stop="20260923150622 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyelamat Tak Diduga</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923150622 +0800" stop="20260923150722 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rasuah Adalah Jenayah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923150722 +0800" stop="20260923150737 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Siaran Percuma MYTV</title>
-    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
-  </programme>
-  <programme start="20260923150737 +0800" stop="20260923150837 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 1</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923150837 +0800" stop="20260923150937 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923150937 +0800" stop="20260923151007 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
   <programme start="20260923151007 +0800" stop="20260923151147 +0800" channel="SIARATV.mana2">
     <title lang="ms">Warung Full</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
@@ -11145,6 +11069,94 @@
   </programme>
   <programme start="20260923155103 +0800" stop="20260923155205 +0800" channel="SIARATV.mana2">
     <title lang="ms">Infografik Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155205 +0800" stop="20260923155305 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155305 +0800" stop="20260923155335 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo - Gerak Khas 2.0</title>
+    <desc lang="ms">Ikuti drama Gerak Khas 2.0 bersama pasukan elit membanteras jenayah, hanya di TV Sarawak (TVS), Saluran MYTV 122.</desc>
+  </programme>
+  <programme start="20260923155335 +0800" stop="20260923155435 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kempen Kesedaran Kebakaran</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155435 +0800" stop="20260923155505 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Pemasangan MYTV</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155505 +0800" stop="20260923155608 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155608 +0800" stop="20260923155820 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Installation Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155820 +0800" stop="20260923155920 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155920 +0800" stop="20260923155950 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923155950 +0800" stop="20260923160020 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160020 +0800" stop="20260923160120 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Menangani Berita Palsu dan 3R</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160120 +0800" stop="20260923160150 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160150 +0800" stop="20260923160220 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160220 +0800" stop="20260923160259 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo AIM25</title>
+    <desc lang="ms">Jangan lepaskan peluang mengikuti drama Korea Hwarang. Saksikan hanya di TV Sarawak (TVS), Saluran MYTV 122</desc>
+  </programme>
+  <programme start="20260923160259 +0800" stop="20260923160514 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
+  <programme start="20260923160514 +0800" stop="20260923160544 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyelamat Tak Diduga</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160544 +0800" stop="20260923160644 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rasuah Adalah Jenayah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160644 +0800" stop="20260923160659 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Siaran Percuma MYTV</title>
+    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
+  </programme>
+  <programme start="20260923160659 +0800" stop="20260923160759 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 1</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160759 +0800" stop="20260923160859 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 2</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160859 +0800" stop="20260923160929 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Talasemia</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923160929 +0800" stop="20260923161109 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Warung Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923161109 +0800" stop="20260923161209 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Wakaf</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260923161209 +0800" stop="20260923161239 +0800" channel="SIARATV.mana2">
@@ -11419,6 +11431,102 @@
   </programme>
   <programme start="20260923172015 +0800" stop="20260923172115 +0800" channel="SIARATV.mana2">
     <title lang="ms">Bunyi</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172115 +0800" stop="20260923172145 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo - Gerak Khas 2.0</title>
+    <desc lang="ms">Ikuti drama Gerak Khas 2.0 bersama pasukan elit membanteras jenayah, hanya di TV Sarawak (TVS), Saluran MYTV 122.</desc>
+  </programme>
+  <programme start="20260923172145 +0800" stop="20260923172215 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172215 +0800" stop="20260923172230 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kenalpasti TV Digital MYTV</title>
+    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
+  </programme>
+  <programme start="20260923172230 +0800" stop="20260923172332 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Infografik Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172332 +0800" stop="20260923172432 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172432 +0800" stop="20260923172532 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kempen Kesedaran Kebakaran</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172532 +0800" stop="20260923172602 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Pemasangan MYTV</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172602 +0800" stop="20260923172705 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172705 +0800" stop="20260923172917 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Installation Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923172917 +0800" stop="20260923173017 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173017 +0800" stop="20260923173047 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173047 +0800" stop="20260923173126 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo AIM25</title>
+    <desc lang="ms">Jangan lepaskan peluang mengikuti drama Korea Hwarang. Saksikan hanya di TV Sarawak (TVS), Saluran MYTV 122</desc>
+  </programme>
+  <programme start="20260923173126 +0800" stop="20260923173156 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173156 +0800" stop="20260923173256 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Menangani Berita Palsu dan 3R</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173256 +0800" stop="20260923173326 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173326 +0800" stop="20260923173356 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173356 +0800" stop="20260923173611 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
+  <programme start="20260923173611 +0800" stop="20260923173641 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyelamat Tak Diduga</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173641 +0800" stop="20260923173741 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rasuah Adalah Jenayah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173741 +0800" stop="20260923173756 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Siaran Percuma MYTV</title>
+    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
+  </programme>
+  <programme start="20260923173756 +0800" stop="20260923173856 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 1</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173856 +0800" stop="20260923173956 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 2</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923173956 +0800" stop="20260923174026 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo Remp-It</title>
+    <desc lang="ms">Saksikan dokumentari menarik The Human Odyssey hanya di TV Sarawak (TVS), saluran 122 di MYTV.</desc>
+  </programme>
+  <programme start="20260923174026 +0800" stop="20260923174056 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Talasemia</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260923174056 +0800" stop="20260923174236 +0800" channel="SIARATV.mana2">
@@ -11791,98 +11899,6 @@
     <title lang="ms">Rukun Negara Bahagian 1</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
-  <programme start="20260923191324 +0800" stop="20260923191424 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Rukun Negara Bahagian 2</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923191424 +0800" stop="20260923191454 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Talasemia</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923191454 +0800" stop="20260923191634 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Warung Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923191634 +0800" stop="20260923191734 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Wakaf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923191734 +0800" stop="20260923191804 +0800" channel="SIARATV.mana2">
-    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923191804 +0800" stop="20260923191904 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bahaya Ikan Asing</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923191904 +0800" stop="20260923192433 +0800" channel="SIARATV.mana2">
-    <title lang="ms">VIDEO SUMBANGAN PEKEMA</title>
-    <desc lang="ms">Video Sumbangan Pekema Golf Kepada 10 Bekas Atlet</desc>
-  </programme>
-  <programme start="20260923192433 +0800" stop="20260923192448 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Fungsi LIVE TV</title>
-    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
-  </programme>
-  <programme start="20260923192448 +0800" stop="20260923192548 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bunyi</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923192548 +0800" stop="20260923192618 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cerita Tentang Ahmad</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923192618 +0800" stop="20260923192922 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Crime Full</title>
-    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
-  </programme>
-  <programme start="20260923192922 +0800" stop="20260923192952 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923192952 +0800" stop="20260923193007 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kenalpasti TV Digital MYTV</title>
-    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
-  </programme>
-  <programme start="20260923193007 +0800" stop="20260923193109 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Infografik Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193109 +0800" stop="20260923193209 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193209 +0800" stop="20260923193309 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kempen Kesedaran Kebakaran</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193309 +0800" stop="20260923193339 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Pemasangan MYTV</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193339 +0800" stop="20260923193409 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Promo CNA - Hari Merdeka</title>
-    <desc lang="ms">Promo CNA sempena Hari Merdeka</desc>
-  </programme>
-  <programme start="20260923193409 +0800" stop="20260923193512 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193512 +0800" stop="20260923193724 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Installation Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193724 +0800" stop="20260923193824 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kuasa</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193824 +0800" stop="20260923193854 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Lone Wolf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923193854 +0800" stop="20260923193924 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
   <programme start="20260923193924 +0800" stop="20260923194024 +0800" channel="SIARATV.mana2">
     <title lang="ms">Menangani Berita Palsu dan 3R</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
@@ -11976,6 +11992,90 @@
     <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
+  <programme start="20260923200007 +0800" stop="20260923200107 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kempen Kesedaran Kebakaran</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200107 +0800" stop="20260923200137 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Pemasangan MYTV</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200137 +0800" stop="20260923200240 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200240 +0800" stop="20260923200452 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Installation Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200452 +0800" stop="20260923200502 +0800" channel="SIARATV.mana2">
+    <title lang="ms">SIARA TV BRAND IDENTITY</title>
+    <desc lang="ms">Brand Identity SIARA TV</desc>
+  </programme>
+  <programme start="20260923200502 +0800" stop="20260923200602 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kuasa</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200602 +0800" stop="20260923200632 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Lone Wolf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200632 +0800" stop="20260923200732 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Menangani Berita Palsu dan 3R</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200732 +0800" stop="20260923200802 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200802 +0800" stop="20260923200832 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923200832 +0800" stop="20260923201047 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
+  <programme start="20260923201047 +0800" stop="20260923201117 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyelamat Tak Diduga</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201117 +0800" stop="20260923201217 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rasuah Adalah Jenayah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201217 +0800" stop="20260923201232 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Siaran Percuma MYTV</title>
+    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
+  </programme>
+  <programme start="20260923201232 +0800" stop="20260923201332 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 1</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201332 +0800" stop="20260923201402 +0800" channel="SIARATV.mana2">
+    <title lang="ms">TVS Promo - Gerak Khas 2.0</title>
+    <desc lang="ms">Ikuti drama Gerak Khas 2.0 bersama pasukan elit membanteras jenayah, hanya di TV Sarawak (TVS), Saluran MYTV 122.</desc>
+  </programme>
+  <programme start="20260923201402 +0800" stop="20260923201502 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 2</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201502 +0800" stop="20260923201532 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Talasemia</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201532 +0800" stop="20260923201712 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Warung Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201712 +0800" stop="20260923201812 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Wakaf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923201812 +0800" stop="20260923201842 +0800" channel="SIARATV.mana2">
+    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
   <programme start="20260923201842 +0800" stop="20260923201942 +0800" channel="SIARATV.mana2">
     <title lang="ms">Bahaya Ikan Asing</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
@@ -12056,6 +12156,86 @@
   </programme>
   <programme start="20260923203808 +0800" stop="20260923203838 +0800" channel="SIARATV.mana2">
     <title lang="ms">Mereka Tak Kenal Sampah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923203838 +0800" stop="20260923203908 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penuaan Sihat</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923203908 +0800" stop="20260923204123 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Penyamun Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran terhadap jenayah penipuan</desc>
+  </programme>
+  <programme start="20260923204123 +0800" stop="20260923204223 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rasuah Adalah Jenayah</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923204223 +0800" stop="20260923204238 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Siaran Percuma MYTV</title>
+    <desc lang="ms">Video promosi mengenai perkhidmatan TV Digital Percuma MYTV di seluruh negara</desc>
+  </programme>
+  <programme start="20260923204238 +0800" stop="20260923204338 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 1</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923204338 +0800" stop="20260923204438 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Rukun Negara Bahagian 2</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923204438 +0800" stop="20260923204508 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Talasemia</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923204508 +0800" stop="20260923204648 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Warung Full</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923204648 +0800" stop="20260923204748 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Wakaf</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923204748 +0800" stop="20260923205317 +0800" channel="SIARATV.mana2">
+    <title lang="ms">VIDEO SUMBANGAN PEKEMA</title>
+    <desc lang="ms">Video Sumbangan Pekema Golf Kepada 10 Bekas Atlet</desc>
+  </programme>
+  <programme start="20260923205317 +0800" stop="20260923205347 +0800" channel="SIARATV.mana2">
+    <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923205347 +0800" stop="20260923205447 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bahaya Ikan Asing</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923205447 +0800" stop="20260923205502 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Fungsi LIVE TV</title>
+    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
+  </programme>
+  <programme start="20260923205502 +0800" stop="20260923205602 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Bunyi</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923205602 +0800" stop="20260923205632 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cerita Tentang Ahmad</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923205632 +0800" stop="20260923205936 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Crime Full</title>
+    <desc lang="ms">Drama pendek yang memupuk kesedaran tentang pencegahan jenayah</desc>
+  </programme>
+  <programme start="20260923205936 +0800" stop="20260923210006 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923210006 +0800" stop="20260923210021 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Kenalpasti TV Digital MYTV</title>
+    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
+  </programme>
+  <programme start="20260923210021 +0800" stop="20260923210123 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Infografik Cetak Rompak Digital</title>
+    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
+  </programme>
+  <programme start="20260923210123 +0800" stop="20260923210223 +0800" channel="SIARATV.mana2">
+    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260923210223 +0800" stop="20260923210253 +0800" channel="SIARATV.mana2">
@@ -12297,86 +12477,6 @@
   </programme>
   <programme start="20260923222133 +0800" stop="20260923222203 +0800" channel="SIARATV.mana2">
     <title lang="ms">1 Rumah 1 Jalur Gemilang</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222203 +0800" stop="20260923222303 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bahaya Ikan Asing</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222303 +0800" stop="20260923222342 +0800" channel="SIARATV.mana2">
-    <title lang="ms">TVS Promo AIM25</title>
-    <desc lang="ms">Jangan lepaskan peluang mengikuti drama Korea Hwarang. Saksikan hanya di TV Sarawak (TVS), Saluran MYTV 122</desc>
-  </programme>
-  <programme start="20260923222342 +0800" stop="20260923222357 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Fungsi LIVE TV</title>
-    <desc lang="ms">Video promosi yang memperkenalkan fungsi LIVE TV di MYTV</desc>
-  </programme>
-  <programme start="20260923222357 +0800" stop="20260923222457 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Bunyi</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222457 +0800" stop="20260923222527 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cerita Tentang Ahmad</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222527 +0800" stop="20260923222557 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222557 +0800" stop="20260923222612 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kenalpasti TV Digital MYTV</title>
-    <desc lang="ms">Panduan mengenal pasti dan menikmati perkhidmatan TV Digital MYTV</desc>
-  </programme>
-  <programme start="20260923222612 +0800" stop="20260923222714 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Infografik Cetak Rompak Digital</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222714 +0800" stop="20260923222814 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Isu Penderaan dan Pengabaian Kanak-Kanak</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222814 +0800" stop="20260923222914 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kempen Kesedaran Kebakaran</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222914 +0800" stop="20260923222944 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Pemasangan MYTV</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923222944 +0800" stop="20260923223047 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kesedaran Keselamatan di Landasan Kereta Api</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223047 +0800" stop="20260923223117 +0800" channel="SIARATV.mana2">
-    <title lang="ms">TVS Promo Remp-It</title>
-    <desc lang="ms">Saksikan dokumentari menarik The Human Odyssey hanya di TV Sarawak (TVS), saluran 122 di MYTV.</desc>
-  </programme>
-  <programme start="20260923223117 +0800" stop="20260923223329 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Installation Full</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223329 +0800" stop="20260923223429 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Kuasa</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223429 +0800" stop="20260923223459 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Lone Wolf</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223459 +0800" stop="20260923223529 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penyamun</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223529 +0800" stop="20260923223629 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Menangani Berita Palsu dan 3R</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223629 +0800" stop="20260923223659 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Mereka Tak Kenal Sampah</title>
-    <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
-  </programme>
-  <programme start="20260923223659 +0800" stop="20260923223729 +0800" channel="SIARATV.mana2">
-    <title lang="ms">Penuaan Sihat</title>
     <desc lang="ms">Pesanan Khidmat Masyarakat</desc>
   </programme>
   <programme start="20260923223729 +0800" stop="20260923223944 +0800" channel="SIARATV.mana2">
