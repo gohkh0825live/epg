@@ -258,8 +258,9 @@
     <desc lang="ms">Nyanyian lagu Negaraku</desc>
   </programme>
   <programme start="20261001060200 +0800" stop="20261001070000 +0800" channel="1">
-    <title lang="ms">Fikrah</title>
+    <title lang="ms">Fikrah 2026</title>
     <desc lang="ms">Saksikan diskusi mengenai permasalahan dan isu-isu mengenai agama. </desc>
+    <episode-num system="onscreen">EP 3</episode-num>
   </programme>
   <programme start="20261001070000 +0800" stop="20261001074400 +0800" channel="1">
     <title lang="ms">Berita Pagi</title>
@@ -275,27 +276,27 @@
   </programme>
   <programme start="20261001100000 +0800" stop="20261001103000 +0800" channel="1">
     <title lang="ms">Undang-Undang Dan Hak Anda</title>
-    <desc lang="ms">Undang-Undang Dan Hak Anda membincangkan hak-hak yang dilindungi dalam undang-undang Malaysia.</desc>
+    <desc lang="ms">Senjata Mempertahankan Diri membincangkan jenis senjata yang dibenarkan untuk mempertahankan diri, batas penggunaannya serta risiko melanggar undang-undang ketika berdepan ancaman.</desc>
     <episode-num system="onscreen">EP 9</episode-num>
   </programme>
   <programme start="20261001103000 +0800" stop="20261001110000 +0800" channel="1">
     <title lang="ms">Ops Bencana</title>
-    <desc lang="ms">Bersama hos, Pablo Amirul Hisyam dalam Ops Bencana memaparkan ketangkasan pasukan penyelamat negara mengendalikan operasi kecemasan bermula dari menerima laporan sehingga tamat operasi.</desc>
+    <desc lang="ms">Episod ini membawakan situasi pertembungan dan gangguan haiwan liar dengan penglibatan Jabatan PERHILITAN dalam menangani konflik serta memastikan keselamatan masyarakat.</desc>
     <episode-num system="onscreen">EP 5</episode-num>
   </programme>
   <programme start="20261001110000 +0800" stop="20261001113000 +0800" channel="1">
     <title lang="ms">Terowong Rahsia Melaka</title>
-    <desc lang="ms">Terowong Rahsia Melaka adalah sebuah dokumentari yang cuba merungkai misteri terowong rahsia kerajaan Melaka lama.</desc>
+    <desc lang="ms">Sebuah dokumentari yang merungkai misteri dan sejarah di sebalik kewujudan terowong rahsia peninggalan Kerajaan Melaka Lama.</desc>
     <episode-num system="onscreen">EP 5</episode-num>
   </programme>
   <programme start="20261001113000 +0800" stop="20261001120000 +0800" channel="1">
     <title lang="ms">Ensiklopedia Kerja</title>
-    <desc lang="ms">Ensiklopedia Kerja, sebuah dokumentari yang memaparkan setiap pekerjaan yang kurang mendapat perhatian tetapi turut menyumbang kepada negara. </desc>
+    <desc lang="ms">Talian MERS 999 menggabungkan talian lima agensi bagi memberikan tindak balas pantas terhadap kes kecemasan dan berisiko.</desc>
     <episode-num system="onscreen">EP 6</episode-num>
   </programme>
   <programme start="20261001120000 +0800" stop="20261001125700 +0800" channel="1">
     <title lang="ms">WORLD WATCH: Epic Safari Encounters &amp; Destination</title>
-    <desc lang="ms">Program majalah dengan melawat beberapa destinasi safari yang menarik di Zimbabwe dan Afrika dengan disertai oleh pegawai safari sebagai jurupandu.</desc>
+    <desc lang="ms">Dalam episod ini Kristina melihat badak dan zirafah bersama pegawai safari Craig dan Dollar.</desc>
     <episode-num system="onscreen">EP 6</episode-num>
   </programme>
   <programme start="20261001125700 +0800" stop="20261001130000 +0800" channel="1">
@@ -305,15 +306,13 @@
     <title lang="ms">Berita Tengah Hari </title>
     <desc lang="ms">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan. (Azan Zohor : 13:06)</desc>
   </programme>
-  <programme start="20261001133000 +0800" stop="20261001133300 +0800" channel="1">
-    <title lang="ms">Surah Al-Fatihah</title>
+  <programme start="20261001133000 +0800" stop="20261001133500 +0800" channel="1">
+    <title lang="ms">GN : RANGKUMAN LAWATAN PERDANA MENTERI KE CHINA</title>
+    <desc lang="ms">IKUTI GN : RANGKUMAN LAWATAN PERDANA MENTERI KE CHINA</desc>
   </programme>
-  <programme start="20261001133300 +0800" stop="20261001134000 +0800" channel="1">
-    <title lang="ms">Surah Yassin</title>
-  </programme>
-  <programme start="20261001134000 +0800" stop="20261001143000 +0800" channel="1">
+  <programme start="20261001133500 +0800" stop="20261001143000 +0800" channel="1">
     <title lang="ms">BIDADARI: Terlanjur Mencintaimu</title>
-    <desc lang="ms">Saksikan drama Terlanjur Mencintaimu dalam slot BIDADARI di tv1.</desc>
+    <desc lang="ms">Amir bin Dasuki sah sebagai pengarah urusan yang baru. Amir merupakan sepupu kepada Johan dan kini dengan bantuan pemandu peribadinya, dia berjaya bertemu dengan ibu saudaranya yang telah sekian lama terputus hubungan.</desc>
     <episode-num system="onscreen">EP 3</episode-num>
   </programme>
   <programme start="20261001143000 +0800" stop="20261001150000 +0800" channel="1">
@@ -333,7 +332,12 @@
     <title lang="ms">Berita Semasa</title>
     <desc lang="ms">Memaparkan perkembangan berita semasa dan terkini.</desc>
   </programme>
-  <programme start="20261001160500 +0800" stop="20261001163000 +0800" channel="1">
+  <programme start="20261001160500 +0800" stop="20261001161000 +0800" channel="1">
+    <title lang="ms">GN : RANGKUMAN LAWATAN PERDANA MENTERI KE CHINA</title>
+    <desc lang="ms">IKUTI GN : RANGKUMAN LAWATAN PERDANA MENTERI KE CHINA</desc>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20261001161000 +0800" stop="20261001163000 +0800" channel="1">
     <title lang="ms">Satu Sentuhan</title>
     <desc lang="ms">Saksikan kehebatan anak tempatan mengubah suai pelbagai barangan terpakai dan terbuang kepada alatan berguna dalam kehidupan seharian.</desc>
     <episode-num system="onscreen">EP 13</episode-num>
@@ -1853,10 +1857,15 @@
     <desc lang="ms">Kisah gadis Bosnia cekal berdepan dengan dugaan sanggup berhijrah meninggalkan bumi kelahirannya untuk menuntut ilmu. Malah gadis bernama Natasya itu juga gigih mahu memperjuangkan dan membangunkan anak bangsanya terutama penduduk tempatan supaya berjaya dan membangun seiring dengan perkembangan dunia luar. Begitu pun tanggungjawabnya bukan mudah kerana keadaan di Bosnia Herzegovina bukan mudah untuk seorang wanita terutama anak gadis mendapat pendidikan di luar negara untuk berperanan di negara sendiri. Lakonan : Sharifah Sofea Syed Husein, Beego, Dato' Hj. Aziz Singah, Linda Hashim, Amanda Misbun, Nasir Bilal Khan, Fazreen Rafi dan Rosnah Johari.</desc>
     <episode-num system="onscreen">EP 5</episode-num>
   </programme>
-  <programme start="20261006020000 +0800" stop="20261006030000 +0800" channel="2">
+  <programme start="20261006020000 +0800" stop="20261006023000 +0800" channel="2">
     <title lang="ms">Paasap Pinaippu</title>
     <desc lang="ms">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. </desc>
     <episode-num system="onscreen">EP 14</episode-num>
+  </programme>
+  <programme start="20261006023000 +0800" stop="20261006030000 +0800" channel="2">
+    <title lang="ms">Agam Puram</title>
+    <desc lang="ms">Harini melakukan pelbagai tipu helah untuk mencari kekayaan dan kemewahan. Oleh kerana terlalu tamak, dia meminjam duit dari kawan-kawan dan Along sehingga tidak dapat membayar kesemua hutang tersebut menyebabkan dia diburu Along dan terpaksa berpura-pura menjadi gila hingga dimasukkan ke pusat pemulihan.</desc>
+    <episode-num system="onscreen">EP 7</episode-num>
   </programme>
   <programme start="20261006030000 +0800" stop="20261006040000 +0800" channel="2">
     <title lang="ms">Dream D.I.Y</title>
@@ -1947,7 +1956,7 @@
   </programme>
   <programme start="20261006150000 +0800" stop="20261006160000 +0800" channel="2">
     <title lang="ms">Annai Madi</title>
-    <desc lang="ms">Priya ditinggalkan di rumah anak yatim sehingga dia berusia setahun. Ramasamy menceritakan ibu kandung Priya meninggalkannya kerana ada orang cuba cederakan dia dan Priya. Ramasamy kemudian memberikan alamat ibu Priya. Vijay datang ke rumah Priya memohon maaf kepada bapa Priya. Dia berjanji akan membantu Priya untuk mencari ibu kandungnya. </desc>
+    <desc lang="ms">Kamala dibawa ke rumah Prema selepas dibenarkan keluar dari hospital. Malangnya, ketika Kamala cuba melarikan diri dari rumah Prema, dia terjatuh dan kakinya patah. Vijay dan Priya membawa Kamala ke hospital untuk rawatan. Setelah pemeriksaan dijalankan, doktor mendapati minda Kamala masih stabil dan berpeluang untuk dipulihkan.</desc>
     <episode-num system="onscreen">EP 6</episode-num>
   </programme>
   <programme start="20261006160000 +0800" stop="20261006170000 +0800" channel="2">
@@ -3936,9 +3945,9 @@
     <desc lang="ms">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
   </programme>
   <programme start="20261004003000 +0800" stop="20261004010000 +0800" channel="4">
-    <title lang="ms">Generasi Aktif</title>
-    <desc lang="ms">Bersama pengacara Xavier Fong memaparkan kepada generasi masa kini tentang sesuatu hobi yang menarik dan istimewa.</desc>
-    <episode-num system="onscreen">EP 8</episode-num>
+    <title lang="ms">Rutin Sihat</title>
+    <desc lang="ms">Sebuah rancangan yang memaparkan teknik senaman dan aktiviti kecergasan yang boleh diamalkan sebagai rutin harian untuk tetap bersenam, sihat dan cergas setiap hari. Juga dikongsikan kepelbagaian menu sihat dan mengenyangkan yang boleh dicuba oleh penonton.</desc>
+    <episode-num system="onscreen">EP 3</episode-num>
   </programme>
   <programme start="20261004010000 +0800" stop="20261004013000 +0800" channel="4">
     <title lang="ms">Majalah : Diari Harimau Muda</title>
@@ -4024,9 +4033,9 @@
     <episode-num system="onscreen">EP 12</episode-num>
   </programme>
   <programme start="20261004093000 +0800" stop="20261004100000 +0800" channel="4">
-    <title lang="ms">Generasi Aktif</title>
-    <desc lang="ms">Bersama pengacara Xavier Fong memaparkan kepada generasi masa kini tentang sesuatu hobi yang menarik dan istimewa.</desc>
-    <episode-num system="onscreen">EP 12</episode-num>
+    <title lang="ms">Ekstrem Adrenalin</title>
+    <desc lang="ms">Rancangan yang memaparkan tentang pelbagai  aksi sukan dan aktiviti ekstrem penuh bertenaga.</desc>
+    <episode-num system="onscreen">EP 2</episode-num>
   </programme>
   <programme start="20261004100000 +0800" stop="20261004103000 +0800" channel="4">
     <title lang="ms">Body And Soul</title>
@@ -4517,11 +4526,7 @@
     <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20261001100000 +0800" stop="20261001100500 +0800" channel="7">
-    <title lang="ms">Dunia 10</title>
-    <desc lang="ms">Memaparkan perkembangan berita luar negara.</desc>
-  </programme>
-  <programme start="20261001100500 +0800" stop="20261001103000 +0800" channel="7">
+  <programme start="20261001100000 +0800" stop="20261001103000 +0800" channel="7">
     <title lang="ms">Pantau</title>
     <desc lang="ms">Dokumentari Pantau yang mendalami teknologi keselamatan masa kini bersama Yusmal Ghazali. Episod kali ini meneroka internet pelbagai benda.</desc>
     <episode-num system="onscreen">EP 1</episode-num>
@@ -4742,11 +4747,7 @@
     <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20261002100000 +0800" stop="20261002100500 +0800" channel="7">
-    <title lang="ms">Dunia 10</title>
-    <desc lang="ms">Memaparkan perkembangan berita luar negara.</desc>
-  </programme>
-  <programme start="20261002100500 +0800" stop="20261002103000 +0800" channel="7">
+  <programme start="20261002100000 +0800" stop="20261002103000 +0800" channel="7">
     <title lang="ms">Diari Kemanusian Jariah</title>
     <desc lang="ms">Saksikan Diari Kemanusiaan Jariah, amalan tanpa sempadan. Bersama pengacara, Anwar Afiq menjejak dan menemu ramah insan-insan hebat yang terlibat dengan misi-misi kemanusiaan. Episod 'Sinar Buat Anak Istimewa' kali ini membawakan Raaginee Salesh, Pengasas Pusat Jagaan dan Latihan Insan Istimewa (LMC).</desc>
     <episode-num system="onscreen">EP 1</episode-num>
@@ -4962,11 +4963,7 @@
     <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20261003100000 +0800" stop="20261003100500 +0800" channel="7">
-    <title lang="ms">Dunia 10</title>
-    <desc lang="ms">Memaparkan perkembangan berita luar negara.</desc>
-  </programme>
-  <programme start="20261003100500 +0800" stop="20261003103000 +0800" channel="7">
+  <programme start="20261003100000 +0800" stop="20261003103000 +0800" channel="7">
     <title lang="ms">Langkah Pertama</title>
     <desc lang="ms">Langkah Pertama membawakan panel dalam kalangan ahli akademik, pakar motivasi ibu bapa berpengalaman dan personaliti televisyen membincangkan mengenai kepentingan pendidikan awal membina modal insan generasi muda. Langkah Pertama pada episod kali ini membincangkan topik Pentingkah Pendidikan Pra-Sekolah di Kalangan Kanan-Kanak bersama pengacara, Fiza dan Amira Aman.</desc>
     <episode-num system="onscreen">EP 1</episode-num>
@@ -5183,11 +5180,7 @@
     <title lang="ms">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
     <desc lang="ms">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
   </programme>
-  <programme start="20261004100000 +0800" stop="20261004100500 +0800" channel="7">
-    <title lang="ms">Dunia 10</title>
-    <desc lang="ms">Memaparkan perkembangan berita luar negara.</desc>
-  </programme>
-  <programme start="20261004100500 +0800" stop="20261004103000 +0800" channel="7">
+  <programme start="20261004100000 +0800" stop="20261004103000 +0800" channel="7">
     <title lang="ms">Melentur Buluh</title>
     <desc lang="ms">Bersama pengacara, Nadzmi Adhwa menemu ramah bakat-bakat muda industri bersama pakar.</desc>
     <episode-num system="onscreen">EP 1</episode-num>
@@ -21189,13 +21182,29 @@
     <display-name lang="ms">20th Asian Games Aichi-Nagoya 2026 CH3</display-name>
     <icon src="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_03.jpg"/>
   </channel>
-  <programme start="20260929183000 +0800" stop="20260929183000 +0800" channel="96">
+  <programme start="20260929183000 +0800" stop="20260930074500 +0800" channel="96">
     <title lang="ms">Volleyball A (M) JPN v PAK</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930074500 +0800" stop="20260930114500 +0800" channel="96">
+    <title lang="ms">Beach Volleyball W/M Quarter Finals  JPN  v PHI @ 09:00 KAZ v CHN</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930114500 +0800" stop="20260930134500 +0800" channel="96">
+    <title lang="ms">Beach Volleyball W/M Quarter Finals  KAZ  v THA</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930134500 +0800" stop="20260930163000 +0800" channel="96">
+    <title lang="ms">Football Mens Semifinal 1 KOR v CHN</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930163000 +0800" stop="20260930163000 +0800" channel="96">
+    <title lang="ms">JUDO Evening Session - Selected Coverage</title>
     <episode-num system="onscreen">EP 1</episode-num>
   </programme>
   <channel id="97">
     <display-name lang="ms">FIFA ASEAN CUP 2026</display-name>
-    <icon src="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/AsianCup.png"/>
+    <icon src="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/THUMBNAILFIFAASEANCUP26.jpg"/>
   </channel>
   <programme start="20260928200000 +0800" stop="20260928200000 +0800" channel="97">
     <title lang="ms">Asean FIFA Cup : Malaysia LWN Indonesia</title>
@@ -21205,25 +21214,36 @@
     <display-name lang="ms">20th Asian Games Aichi-Nagoya 2026 CH5</display-name>
     <icon src="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_05.jpg"/>
   </channel>
-  <programme start="20260929163000 +0800" stop="20260930074500 +0800" channel="107">
+  <programme start="20260929163000 +0800" stop="20260930090000 +0800" channel="107">
     <title lang="ms">Beach Volleyball (M) Round of 16 Afternoon Session</title>
     <episode-num system="onscreen">EP 1</episode-num>
   </programme>
-  <programme start="20260930074500 +0800" stop="20261001094500 +0800" channel="107">
-    <title lang="ms">E-Sport Identity V-Asian Game Version</title>
+  <programme start="20260930090000 +0800" stop="20260930120000 +0800" channel="107">
+    <title lang="ms">Padel 2nd Round W/M Selected Matches</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930120000 +0800" stop="20260930151500 +0800" channel="107">
+    <title lang="ms">Boxing SF Mens &amp; Womens   Bout 157 - 161</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930151500 +0800" stop="20260930174500 +0800" channel="107">
+    <title lang="ms">Padel 2nd Round W/M Selected Matches</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930174500 +0800" stop="20260930181500 +0800" channel="107">
+    <title lang="ms">Beauty Cam</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930181500 +0800" stop="20261001094500 +0800" channel="107">
+    <title lang="ms">Football Mens Semifinal 2 UZB v JPN</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20261001094500 +0800" stop="20261001130000 +0800" channel="107">
+    <title lang="ms">JUDO Mat 1 Morning Session</title>
     <desc lang="ms"> </desc>
     <episode-num system="onscreen">EP 1</episode-num>
   </programme>
-  <programme start="20261001094500 +0800" stop="20261001123000 +0800" channel="107">
-    <title lang="ms">JUDO Mens Event</title>
-    <desc lang="ms"> </desc>
-    <episode-num system="onscreen">EP 1</episode-num>
-  </programme>
-  <programme start="20261001123000 +0800" stop="20261001134500 +0800" channel="107">
-    <title lang="ms">Replay of the 20th Asian Games, Aichi–Nagoya 2026</title>
-    <episode-num system="onscreen">EP 1</episode-num>
-  </programme>
-  <programme start="20261001134500 +0800" stop="20261002104500 +0800" channel="107">
+  <programme start="20261001130000 +0800" stop="20261002104500 +0800" channel="107">
     <title lang="ms">Mobile Legend Bang Bang</title>
     <desc lang="ms"> </desc>
     <episode-num system="onscreen">EP 1</episode-num>
@@ -21278,8 +21298,12 @@
     <display-name lang="ms">20th Asian Games Aichi-Nagoya 2026 CH4</display-name>
     <icon src="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/CHANNEL_ASIAN_GAME_04.jpg"/>
   </channel>
-  <programme start="20260929183000 +0800" stop="20260929183000 +0800" channel="109">
+  <programme start="20260929183000 +0800" stop="20260930074500 +0800" channel="109">
     <title lang="ms">Athletic Field Hammer Throw</title>
+    <episode-num system="onscreen">EP 1</episode-num>
+  </programme>
+  <programme start="20260930074500 +0800" stop="20260930074500 +0800" channel="109">
+    <title lang="ms">Squash W/M Teams  Quarter Finals</title>
     <episode-num system="onscreen">EP 1</episode-num>
   </programme>
 </tv>
